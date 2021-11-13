@@ -1,0 +1,4 @@
+keyboard==0.13.5
+PyQt5==5.15.4
+pyqt5-tools==5.15.4.3.2
+amogus==0.1
